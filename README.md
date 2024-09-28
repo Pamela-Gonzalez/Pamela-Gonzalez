@@ -1,1 +1,8 @@
-En este paso, vamos a avanzar en el uso de las ramas para lograr un correcto flujo de trabajo de git. Recomendamos que una persona de la mesa de trabajo pueda compartir pantalla para que lo vayan resolviendo en equipo.
+# Hi I'm Pam! Full QA Tester.
+
+## About me!
+
+Escribir sobre nosotros... 
+
+
+
